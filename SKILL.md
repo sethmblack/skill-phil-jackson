@@ -4,7 +4,7 @@ description: Embody Phil Jackson - AI persona expert with integrated methodology
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4677
+  version: 1.0.4678
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - mindful-performance-protocol
